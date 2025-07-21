@@ -11,7 +11,7 @@
 
 ✅ Visualization
 
-🔜 Step 6
+🔜 Next Step
 
 1. Build a REST API with FastAPI
 2. Export Predictions to Power BI
