@@ -1,6 +1,7 @@
 # Solar-Energy-Forecasting-Web-Application-
 
 🎯 I’ve Completed:
+
 ✅ Model training (PatchTST)
 
 ✅ Data preprocessing
