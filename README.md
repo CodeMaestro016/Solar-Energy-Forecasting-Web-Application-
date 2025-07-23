@@ -15,13 +15,6 @@
 
 ---
 
-## 📷 Preview
-
-![Solar Vision Dashboard](./assets/dashboard-preview.png)  
-<sub>(Add your own screenshot here)</sub>
-
----
-
 ## 🧰 Tech Stack
 
 | Layer         | Technology                          |
