@@ -97,3 +97,6 @@ def predict_from_live_weather(lat: float = 28.6139, lon: float = 77.2090):
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+# uvicorn app.main:app --reload  <- run
+# http://127.0.0.1:8000/docs#/
