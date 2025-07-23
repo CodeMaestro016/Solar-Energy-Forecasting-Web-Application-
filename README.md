@@ -55,5 +55,16 @@ npm install
 npm run dev
 ```
 
+📌 TODO 
+
+ Add time-of-day as a model feature to improve accuracy
+
+ Multi-location dashboard with map support
+
+ Deploy backend (Render / Railway) and frontend (Vercel)
+
+ Add database support for saving forecasts
+
+ 
 👨‍💻 Author
 Avishka Piyumal – Full Stack Developer & ML Engineer
