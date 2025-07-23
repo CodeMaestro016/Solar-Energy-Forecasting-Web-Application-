@@ -46,3 +46,14 @@ git clone https://github.com/yourusername/solar-vision.git
 cd solar-vision/backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+```
+### 🔹 Frontend (ReactJS + Tailwind)
+
+```
+cd ../frontend
+npm install
+npm run dev
+```
+
+👨‍💻 Author
+Avishka Piyumal – Full Stack Developer & ML Engineer
